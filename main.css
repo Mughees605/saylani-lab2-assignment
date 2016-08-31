@@ -44,6 +44,7 @@ a{
     text-decoration: inherit;
 }
 #logo{
-    
-    width:20% ;
+
+    width:40%;
+    display: block;
 margin: 10px auto 10px auto;}
