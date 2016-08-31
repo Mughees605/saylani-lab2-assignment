@@ -1,0 +1,49 @@
+body{
+    background-color:white;
+    font-family: Courier New, Courier, monospace;
+    font-size: 80%;
+    letter-spacing: 0.15em;
+}
+#container{
+    border: 4px double black;
+    max-width: 960px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+}
+/* nav bar */
+#nav{
+    width: 560px;
+    margin: 10px auto 10px auto;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 20px;   
+}
+#nav>img{
+    width: 560px;
+    height: 300px;
+}
+p.quote{
+    border: 4px solid #999999;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto 10px auto;
+    width: 340px;
+}
+p{
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: inherit;
+}
+#logo{
+    width: 150px;
+margin: 10px auto 10px auto;}
